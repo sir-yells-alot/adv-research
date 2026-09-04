@@ -1,4 +1,4 @@
-# Week 1 Progress & Notes:
+# Week 1 Progress & Notes ([Dataset](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data))
 
 ## Task 1: Loading data
 
